@@ -5,7 +5,7 @@ Fork do repositório do curso "Testes automatizados com Cypress - Básico" minis
 ## Pré-requisitos
 
 Neste projeto são requeridos Node.js e npm 
->As versões utilizadas durante o projeto e recomendadas são Node.js - v18.12.1 e npm 8.19.2 
+>As versões utilizadas durante o projeto são Node.js v18.12.1 e npm 8.19.2, é recomendado a utilização dessas versões ou alguma versão superior 
 
 ## Instalação de dependências
 
